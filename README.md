@@ -6,7 +6,7 @@ The idea of the camera course is to build a collision detection system - that's 
 
 * First, focus on loading images, setting up data structures and putting everything into a ring buffer to optimize memory load. 
 * Then, integrate several keypoint detectors such as HARRIS, FAST, BRISK and SIFT and compare them with regard to number of keypoints and speed. 
-* In the next part, focus on descriptor extraction and matching using brute force and also the FLANN approach we discussed in the previous lesson. 
+* In the next part, focus on descriptor extraction and matching using brute force and also the FLANN approach. 
 * In the last part, once the code framework is complete, test the various algorithms in different combinations and compare them with regard to some performance measures. 
 
 ## Tasks Accomplished
